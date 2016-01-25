@@ -1,12 +1,12 @@
 # Site settings
-title: "Jekyll template"
-url: "//ihavee.github.io"
+title: "烂笔头"
+url: "//mbzx.github.io"
 highlighter: pygments
 paginate: 5
 author:
-    name: Havee
-    github:
-    email:
+    name: 圆月豌豆
+    github: mbzx
+    email: cq51888@126.com
     gitcafe:
     twitter:
     facebook:
