@@ -1,11 +1,11 @@
 # Site settings
 title: "CaoQing's blog"
-url: "//mbzx.github.io"
+url: "//scdz.github.io"
 highlighter: pygments
 paginate: 5
 author:
     name: 圆月豌豆
-    github: mbzx
+    github:scdz
     email: cq51888@126.com
     gitcafe:
     twitter:
